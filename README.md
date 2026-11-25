@@ -6,7 +6,7 @@ A menu-based C# console game where you play a detective and solve two cases by m
 
 | Choose a case | Answer questions | Case solved |
 |---|---|---|
-| ![Case selection](screenshots/case-selection.png) | ![Question](screenshots/question.png) | ![Case solved](screenshots/case-solved.png) |
+| ![Case selection](screenshots/case-selection. jpeg) | ![Question](screenshots/question. jpeg) | ![Case solved](screenshots/case-solved. jpeg) |
 
 ## Cases
 
